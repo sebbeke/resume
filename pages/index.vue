@@ -97,8 +97,8 @@
 
 <script lang="ts">
 import Vue from 'vue'
-import BuildingIcon from "../components/icons/Building";
-import DateIcon from "../components/icons/Date";
+import BuildingIcon from "../components/icons/Building.vue";
+import DateIcon from "../components/icons/Date.vue";
 
 export default Vue.extend({
   components: {BuildingIcon, DateIcon},
