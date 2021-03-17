@@ -1,10 +1,11 @@
 <template>
+<div>
   <div class="mt-6 max-w-screen-lg md:flex mx-auto">
     <div class="md:w-1/3 p-2 relative">
       <div class="md:fixed">
-        <div class="md:block">
+        <div class="md:block mx-4">
           <img
-            class="h-32 w-32 rounded-full mx-auto mx-4"
+            class="h-32 w-32 rounded-full mx-auto"
             src="~/static/01.jpg"
             alt="picture of me"
           />
@@ -45,4 +46,8 @@
       <Nuxt />
     </div>
   </div>
+  <footer class="text-center text-sm text-gray-400">
+    <a href="https://github.com/sebbeke/resume">Bekijk de broncode op Github</a>
+  </footer>
+</div>
 </template>
