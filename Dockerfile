@@ -1,13 +1,13 @@
-FROM node:15
-
+FROM node:15-alpine AS BUILD_IMAGE
 WORKDIR /usr/src/app
-
 COPY package.json ./
 RUN npm install
-
 COPY . .
-EXPOSE 3000
-
 RUN npm run build
 
-CMD [ "npm", "run", "start" ]
+FROM nginx
+WORKDIR /usr/share/nginx/html
+# copy from build image
+COPY --from=BUILD_IMAGE /usr/src/app/dist .
+EXPOSE 80
+
