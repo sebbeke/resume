@@ -6,7 +6,7 @@
   </div>
 </template>
 
-<script lang="ts">
+<script>
 import ContentFetcher from "@/lib/ContentFetcher";
 export default {
   name: "ToolList",
@@ -16,7 +16,7 @@ export default {
     };
   },
   async fetch() {
-    const res = await ContentFetcher("", "software") as string[];
+    const res = await ContentFetcher("", "software");
     this.items = res.sort();
   },
 }

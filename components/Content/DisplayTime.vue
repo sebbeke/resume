@@ -5,15 +5,14 @@
   </div>
 </template>
 
-<script lang="ts">
+<script>
 import DateIcon from "../icons/Date.vue";
-import {PropType} from "vue";
 export default {
   components: {DateIcon},
   name: "DisplayTime",
   props: {
     value: {
-      type: Object as PropType<Content>,
+      type: Object,
       required: true,
     },
   },
@@ -27,7 +26,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-
-</style>
