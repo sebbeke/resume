@@ -1,0 +1,44 @@
+[
+  {
+    "title": "ICT-Consultant",
+    "location": "Lokale Politie Brugge",
+    "start": "Juli 2012",
+    "end": "Nu",
+    "description": "Als politiedienst wordt er meer gefocust op digitalisering. Hierbij voorzie ik de ondersteuning van verschillende diensten, zowel voor het schrijven van software als het onderhouden van web- en database servers. Een mini ERP-pakket, een intranet en een module voor personeelsplanning zijn een aantal van de projecten die ik van begin tot einde heb ontworpen. Naast deze hoofdtaak werk ik ook mee op de helpdesk waarin een permanentie rol voorzien is."
+  },
+  {
+    "title": "Stagiair ICT",
+    "location": "Lokale Politie Brugge",
+    "start": "Februari 2012",
+    "end": "Juni 2012",
+    "description": "In deze stage heb ik voor de politie van Brugge een applicatie geschreven om het Algemeen Nood en Interventieplan te digitaliseren."
+  },
+  {
+    "title": "Vakantiejob - Parkeerwachter",
+    "location": "Blankenberge",
+    "start": "Augustus 2011",
+    "end": "September 2011",
+    "description": ""
+  },
+  {
+    "title": "Vakantiejob",
+    "location": "Roxell Maldegem",
+    "start": "Augustus 2010",
+    "end": "September 2010",
+    "description": "Het testen van diverse software om de omschakeling van Windows XP naar Windows 7 voor te bereiden."
+  },
+  {
+    "title": "Vakantiejob - Lijnoperator",
+    "location": "Confiserie Kathy",
+    "start": "2011",
+    "end": "2011",
+    "description": ""
+  },
+  {
+    "title": "Vakantiejob - Lijnoperator",
+    "location": "Mercator press Jabbeke",
+    "start": "2005",
+    "end": "2011",
+    "description": ""
+  }
+]
