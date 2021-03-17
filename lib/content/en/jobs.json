@@ -1,0 +1,44 @@
+[
+  {
+    "title": "ICT Consultant",
+    "location": "Brugge Local Police",
+    "start": "July 2012",
+    "end": "Now",
+    "description": "Even the local police department can’t escape digitalization. To aid them in this process i designed a lot of custom-tailored software. These applications are used to manage employee’s and distributed information more efficiently."
+  },
+  {
+    "title": "ICT trainee",
+    "location": "Brugge Local Police",
+    "start": "February 2012",
+    "end": "June 2012",
+    "description": "During this internship I wrote an application that manages information used when a disaster occurs."
+  },
+  {
+    "title": "Summer job - Parking attendant",
+    "location": "Blankenberge",
+    "start": "August 2011",
+    "end": "September 2011",
+    "description": ""
+  },
+  {
+    "title": "Summer job - Helpdesk employee",
+    "location": "Roxell Maldegem",
+    "start": "August 2011",
+    "end": "September 2010",
+    "description": "Testing various software to prepare the switch from Windows XP to Windows 7."
+  },
+  {
+    "title": "Summer job - Line operator",
+    "location": "Confectionery Kathy",
+    "start": "2011",
+    "end": "2011",
+    "description": ""
+  },
+  {
+    "title": "Summer job - Line operator",
+    "location": "Mercator press Jabbeke",
+    "start": "2005",
+    "end": "2011",
+    "description": ""
+  }
+]

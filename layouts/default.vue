@@ -39,6 +39,7 @@
             </i>
             LinkedIn
           </a>
+          <language-selector />
         </div>
       </div>
     </div>
@@ -47,7 +48,13 @@
     </div>
   </div>
   <footer class="text-center text-sm text-gray-400">
-    <a href="https://github.com/sebbeke/resume">Bekijk de broncode op Github</a>
+    <a href="https://github.com/sebbeke/resume">Source code</a>
   </footer>
 </div>
 </template>
+<script>
+import LanguageSelector from "@/components/Content/LanguageSelector";
+export default {
+ components: {LanguageSelector},
+};
+</script>

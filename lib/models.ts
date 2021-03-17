@@ -5,3 +5,11 @@ export interface Content {
     end: string;
     description: string;
 }
+
+export interface Index {
+  summary: string;
+  tools: string;
+  experience: string;
+  education: string;
+  description: string;
+}
